@@ -1,1 +1,1 @@
-ptint("hello")
+pint("hello")
