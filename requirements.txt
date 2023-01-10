@@ -1,2 +1,10 @@
 Flask
+line-bot-sdk
+google-cloud-vision
+matplotlib
+fuzzywuzzy
+mysql-connector-python
+flask_sqlalchemy
+psycopg2-binary
+opencv-python==4.4.0.44
 uwsgi
